@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Oh-sorry/Oh-sorry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=오소리땅굴%20&fontSize=90&fontColor=#FFFFF)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=오소리땅굴!!%20&fontColor=FFFFFF&fontSize=90&textBG=true)
