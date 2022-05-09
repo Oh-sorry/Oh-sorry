@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=오소리땅굴!!%20&fontColor=FFFFFF&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Oh-sorry/tabthk/tab ya!!%20&fontColor=FFFFFF&fontSize=70)
 
 
   
