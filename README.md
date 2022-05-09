@@ -14,11 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=$waving&color=auto&height=$200&section=header&text=$Oh-sorry%20!&fontSize=$50&animation=$twinkling)
-
-// 내 옵션
-배경타입 : waving
-높이 : 200
-텍스트 : HelloWorld!%20!🥳
-글자크기 : 50
-텍스트효과 : twinkling
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
