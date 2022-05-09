@@ -1,6 +1,8 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=오소리땅굴!!%20&fontColor=FFFFFF&fontSize=70)
 
-<div align=center>
+
   
   ## 💻  T E C H 📱
 
