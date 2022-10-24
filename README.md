@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=1minute2moon%20&fontColor=FFFFFF&fontSize=70)
-
 <div align=center>
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=1minute2moon%20&fontColor=FFFFFF&fontSize=70)
 
   ## 💻  T E C H 📱
 
