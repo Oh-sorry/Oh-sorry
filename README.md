@@ -3,14 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=1minute2moon%20&fontColor=FFFFFF&fontSize=70)
 
 
-  
   ## 💻  T E C H 📱
 
   [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://https://github.com/Oh-sorry) 
   [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/Oh-sorry/fullPage)
-<br>
-  
-  [![React,React Native](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/Oh-sorry/fullPage) [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://github.com/Oh-sorry/fullPage)
 <br>
 
   [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/Oh-sorry/fullPage) 
