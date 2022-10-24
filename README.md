@@ -1,8 +1,9 @@
-<div align=center>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=1minute2moon%20&fontColor=FFFFFF&fontSize=70)
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oh-sorry&show_icons=true&theme=radical)
+<div align=center>
+
+
 
   ## 💻  T E C H 📱
 
@@ -26,4 +27,3 @@
 
   
  </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsals1998)](https://solved.ac/dnjsals1998/)
