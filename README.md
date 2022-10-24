@@ -26,4 +26,4 @@
 
   
  </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsals1998@naver.com)](https://solved.ac/dnjsals1998@naver.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsals1998)](https://solved.ac/dnjsals1998/)
